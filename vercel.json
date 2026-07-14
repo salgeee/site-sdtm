@@ -6,7 +6,8 @@
     { "source": "/login", "destination": "/login.html" },
     { "source": "/cadastro", "destination": "/cadastro.html" },
     { "source": "/dashboard", "destination": "/dashboard.html" },
-    { "source": "/noticias", "destination": "/noticias.html" }
+    { "source": "/noticias", "destination": "/noticias.html" },
+    { "source": "/documentos", "destination": "/documentos.html" }
   ],
   "functions": {
     "api/**/*.js": {
